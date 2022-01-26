@@ -10,6 +10,7 @@ How to effectively tell the story of the data using visualizations. Once I gradu
 
 # Portfolio
 This is where I will put all the things we do in this class. 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8531417"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Setting up your online portfolio
 

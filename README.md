@@ -16,6 +16,7 @@ This is where I will put all the things we do in this class.
 
 ## Data Visualization Critique #1
 
-## Assignment 3
+## Visualizing Government Debt
+[OECD GDP](/dataviz2.md)
 
 # Final Project

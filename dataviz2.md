@@ -12,4 +12,6 @@ I felt that instead of looking at every graph at once and almost at a distance i
 to look at each country individually and toggle between them. With respect to color here it was not too crazy. I just kept one color across the 
 different countries. I picked a neutral color. 
 
+I tried to find a way that you could select two or more countries at a time but with my limited time trying to figure out floursish I was unsuccessful. 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/8567733"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

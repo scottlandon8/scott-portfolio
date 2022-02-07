@@ -19,6 +19,9 @@ This is where I will put all the things we do in this class.
 ## Visualizing Government Debt
 [Check out three charts about the countries Debt-to-GDP ratio](/dataviz2.md)
 
+## Homework 3/4
+[Check out Homework 3 and 4](homework3and4.md)
+
 # Final Project
 
 ## Tableau Demo

@@ -24,4 +24,4 @@ teams actually are. We can see that some are more and less effiecient but being 
 put that into some number form would be nice for readibility and comparing. 
 
 ## Wireframe a solution
-![Wireframing](WireFraming.JPG)
+![Wireframing](WireFraming.jpg)

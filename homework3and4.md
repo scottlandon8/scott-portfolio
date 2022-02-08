@@ -31,7 +31,9 @@ put that into some number form would be nice for readibility and comparing.
 
 I really liked the critique method we used. I think it helped me look at the chart in different ways and collect my initial responses to the questions. 
 Being able to rank something gives you a good indication of how you really feel about it and I thought this critique method helped me pin point what I
-really thought about the visualization.
+really thought about the visualization. I think specifically it helped me identify how difficult it really could be for someone to understand who was 
+not familiar with the data and that for its targeted audience it was probably doing a decent job. Again, I just felt it really helped me analyze the 
+visualization and it was effective. 
 
 ## Wireframe a solution
 ![Wireframing](chart1sketch.jpg)

@@ -24,7 +24,7 @@ teams actually are. We can see that some are more and less effiecient but being 
 put that into some number form would be nice for readibility and comparing. 
 
 ## Wireframe a solution
-![Wireframing](WireFraming.jpg)
+![Wireframing](chart1sketch.jpg)
 
 The first sketch is me trying to represent the data in a bit of a cleaner way and see if
 I feel like it makes it easier to read. Basically, the same approach taken originally but
@@ -57,6 +57,8 @@ Summary from Sketch 1 from Sister:
 - Likes the idea of having best teams stand out but change the color. 
 - Data points need to be more readable
 - Labels on axes would be nice
+
+![Wireframing](chart2sketch.jpg)
 
 Summary from Sketch 2 from Sister:
 - More readable

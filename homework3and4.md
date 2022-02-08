@@ -38,7 +38,7 @@ efficient anyway. This is the point I think the author is trying to make and I t
 helps get it across. 
 
 ## Test the solution
-#### Sister
+### Sister
 The first person I interviewed was my sister. She knows very little about basketball so I 
 hoped it would give a fresh perspective. Even with the changes I made in my first sketch
 it took a while for her to see what exactly the point of the graph was. Her response to 
@@ -71,7 +71,7 @@ Summary of Sketch 2 from Sister:
 - Colors are good.
 - What is net efficiency?
 
-#### Wife
+### Wife
 Full disclosure, I showed my wife the original graph earlier so she had some idea what
 the charts were going to be about. But it was good for comparison to see if it was easier
 to understand. 
@@ -104,7 +104,7 @@ Summary of sketch 2 from wife:
 - No real story being told. Doesn't highlight anything.
 - Teams are far away from numbers. 
 
-#### Group Feedback from Class
+### Group Feedback from Class
 They looked at a draft I had been working on in Tableau
 ![Wireframing](DraftChart.PNG)
 - What worked: Intuitive and Simple. Easy to understand compared to original. 
@@ -112,3 +112,29 @@ They looked at a draft I had been working on in Tableau
   top 2 or 3 and bottom 2 or three teams. Add a subtitle. Explanation of efficiency would help. 
 - What questions came up: What is negative efficiency..?
 - What new inspirations arose: I thought the color was pretty good but it seemed that it could be improved upon because it did not give any real meaning. Also, the idea of showing the top 3 and bottom 3 gave it more pop.
+
+# Build Your Solution
+
+<div class='tableauPlaceholder' id='viz1644289774380' style='position: relative'>
+  <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+  <param name='embed_code_version' value='3' />
+  <param name='site_root' value='' />
+  <param name='name' value='Homework34_16442895089470&#47;Final' />
+  <param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='animate_transition' value='yes' />
+  <param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-US' />
+  <param name='filter' value='publish=yes' />
+  </object></div>
+  <script type='text/javascript'>                    var divElement = document.getElementById('viz1644289774380');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';
+  vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; 
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>

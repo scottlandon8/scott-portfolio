@@ -30,6 +30,8 @@ The first sketch is me trying to represent the data in a bit of a cleaner way an
 I feel like it makes it easier to read. Basically, the same approach taken originally but
 seeing if I can clean it up a bit. 
 
+![Wireframing](chart2sketch.jpg)
+
 The second one, I took some of the emphasis off the defensive and offensive efficiencies. 
 I focused mainly on net efficiencies which really brings to light who is being the most 
 efficient anyway. This is the point I think the author is trying to make and I think it 
@@ -57,8 +59,6 @@ Summary from Sketch 1 from Sister:
 - Likes the idea of having best teams stand out but change the color. 
 - Data points need to be more readable
 - Labels on axes would be nice
-
-![Wireframing](chart2sketch.jpg)
 
 Summary from Sketch 2 from Sister:
 - More readable

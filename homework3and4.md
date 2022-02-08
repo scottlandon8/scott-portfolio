@@ -36,4 +36,33 @@ efficient anyway. This is the point I think the author is trying to make and I t
 helps get it across. 
 
 ## Test the solution
+#### Sister
+The first person I interviewed was my sister. She knows very little about basketball so I 
+hoped it would give a fresh perspective. Even with the changes I made in my first sketch
+it took a while for her to see what exactly the point of the graph was. Her response to 
+"What do you think this is" was "some kind of city or state effecincies data". She then
+asked why there was no title or labels. She mentioned having the points in red made her
+believe they were doing poorly when in reality they were the best. 
+
+I gave here some help because I left off a title that this was NBA basketball data and 
+it became a little more clear to her. I asked about intended audience and she said people
+who are well versed in basketball because this chart did not make sense to her even with
+that knowledge. 
+
+We looked at the second chart and she said now having the knowledge that this was about 
+basketball that it made it easier to interpret. 
+
+Summary from Sketch 1 from Sister: 
+- Have a title, because without it there is no way to know what is happening. 
+- Likes the idea of having best teams stand out but change the color. 
+- Data points need to be more readable
+- Labels on axes would be nice
+
+Summary from Sketch 2 from Sister:
+- More readable
+- Needs title
+- Needs Labels
+- Visually easier to understand for someone who knows little about NBA
+- Easier for comparison
+
 

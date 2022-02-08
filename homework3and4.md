@@ -25,3 +25,15 @@ put that into some number form would be nice for readibility and comparing.
 
 ## Wireframe a solution
 ![Wireframing](WireFraming.jpg)
+
+The first sketch is me trying to represent the data in a bit of a cleaner way and see if
+I feel like it makes it easier to read. Basically, the same approach taken originally but
+seeing if I can clean it up a bit. 
+
+The second one, I took some of the emphasis off the defensive and offensive efficiencies. 
+I focused mainly on net efficiencies which really brings to light who is being the most 
+efficient anyway. This is the point I think the author is trying to make and I think it 
+helps get it across. 
+
+## Test the solution
+

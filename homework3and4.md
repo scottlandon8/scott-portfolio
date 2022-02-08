@@ -106,9 +106,9 @@ Summary of sketch 2 from wife:
 
 #### Group Feedback from Class
 They looked at a draft I had been working on in Tableau
-
+![Wireframing](DraftChart.PNG)
 - What worked: Intuitive and Simple. Easy to understand compared to original. 
 - What didn't work: Colors, change colors, make title black, highlight
   top 2 or 3 and bottom 2 or three teams. Add a subtitle. Explanation of efficiency would help. 
 - What questions came up: What is negative efficiency..?
-- What new inspirations arose: I thought the color was pretty good but it seemed that it could be improved upon because it did not give any real meaning. 
+- What new inspirations arose: I thought the color was pretty good but it seemed that it could be improved upon because it did not give any real meaning. Also, the idea of showing the top 3 and bottom 3 gave it more pop.

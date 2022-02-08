@@ -52,19 +52,22 @@ who are well versed in basketball because this chart did not make sense to her e
 that knowledge. 
 
 We looked at the second chart and she said now having the knowledge that this was about 
-basketball that it made it easier to interpret. 
+basketball that it made it easier to interpret.
 
-Summary from Sketch 1 from Sister: 
+Summary of Sketch 1 from Sister: 
 - Have a title, because without it there is no way to know what is happening. 
 - Likes the idea of having best teams stand out but change the color. 
 - Data points need to be more readable
-- Labels on axes would be nice
+- Tick marks help readability but also crowd the data. 
 
-Summary from Sketch 2 from Sister:
+Summary of Sketch 2 from Sister:
 - More readable
+- Hard to pin point team
 - Needs title
 - Needs Labels
 - Visually easier to understand for someone who knows little about NBA
 - Easier for comparison
+- Colors are good.
+- What is net efficiency?
 
 

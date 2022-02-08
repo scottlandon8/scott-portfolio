@@ -2,7 +2,12 @@
 
 ## Data Visualization to Critique: The Efficiency Landscape
 ![The Efficiency Landscape](PotentialUseChart.PNG)
+
 [Here is a link to the chart by Kirk Goldsberry](https://twitter.com/kirkgoldsberry/status/1487061768593711109?cxt=HHwWioC9wZezjaMpAAAA)
+
+The chart here describes the NBA teams based on their offensive, defensive, and net efficiency. The goal would to be in the 
+upper right quadrant which he calls the "quadrant of wow" indicating you are performing well. The chart provides some
+summary text on specific teams and their rankings in their efficiencies. 
 
 ## Critique of the Visualization
 The overall summary of the chart is that for someone who has experience with NBA the chart 

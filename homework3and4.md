@@ -12,7 +12,7 @@ summary text on specific teams and their rankings in their efficiencies.
 ## Critique of the Visualization
 The overall summary of the chart is that for someone who has experience with NBA the chart 
 is pretty cool. I consider myself as someone who follows the NBA pretty closely, but this 
-still took me a secong to get a real idea of what was going on, so the readability needs some
+still took me a second to get a real idea of what was going on, so the readability needs some
 work. 
 
 The chart looks a bit messy. There are axes, diagonal lines, some random labels, and some
@@ -28,6 +28,10 @@ would be better in my opinion if they just highlighted the top particular teams.
 The other point I would add is tick marks with numbers so we can see how efficient the 
 teams actually are. We can see that some are more and less effiecient but being able to
 put that into some number form would be nice for readibility and comparing. 
+
+I really liked the critique method we used. I think it helped me look at the chart in different ways and collect my initial responses to the questions. 
+Being able to rank something gives you a good indication of how you really feel about it and I thought this critique method helped me pin point what I
+really thought about the visualization.
 
 ## Wireframe a solution
 ![Wireframing](chart1sketch.jpg)

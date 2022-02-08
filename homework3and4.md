@@ -52,7 +52,8 @@ who are well versed in basketball because this chart did not make sense to her e
 that knowledge. 
 
 We looked at the second chart and she said now having the knowledge that this was about 
-basketball that it made it easier to interpret.
+basketball that it made it easier to interpret. Likes the data points by the bars. Hard
+to associaly bars with team. Nice for comparison. Seems more intuitive. 
 
 Summary of Sketch 1 from Sister: 
 - Have a title, because without it there is no way to know what is happening. 
@@ -70,4 +71,35 @@ Summary of Sketch 2 from Sister:
 - Colors are good.
 - What is net efficiency?
 
+#### Wife
+Full disclosure, I showed my wife the original graph earlier so she had some idea what
+the charts were going to be about. But it was good for comparison to see if it was easier
+to understand. 
 
+We looked at the first sketch are her first response was that it was easier to read because
+there was not as much happening. Like my sister she asked why those 4 teams are in read if 
+they are the good ones. Not as fun to look at as original but easier to understand. Likes
+tick-marks but they need to be cleaned up. Overall, she said even though it is more readable
+it is a step down from the original. 
+
+We moved on to the second sketch and her first response was that it is very easy to understand 
+this way. Also, that it is easier to make comparisons between teams. She liked having two colors
+to separate positive and negative. Mentioned the need for title. When I asked what she thought the
+chart was trying to tell her she said, "I don't know. Who the most efficient teams are?". So that 
+was a bit discouraging. But good to think about because it doesns't really highlight anything specific. 
+I asked her what she would change and she said the teams are far away from their numbers. The negative
+teams are easy to see but the positive are more difficult. 
+
+Summary of sketch 1 from wife: 
+- Change color of best teams
+- Not as fun to look at
+- clean up tick-marks
+- hard to understand when a point is good or bad. 
+
+Summary of sketch 2 from wife: 
+- Easier to understand
+- Good for comparisons
+- Two colors is good
+- Needs a title
+- No real story being told. Doesn't highlight anything.
+- Teams are far away from numbers. 

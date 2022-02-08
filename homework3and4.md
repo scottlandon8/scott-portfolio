@@ -2,6 +2,7 @@
 
 ## Data Visualization to Critique: The Efficiency Landscape
 ![The Efficiency Landscape](PotentialUseChart.PNG)
+[Here is a link to the chart by Kirk Goldsberry](https://twitter.com/kirkgoldsberry/status/1487061768593711109?cxt=HHwWioC9wZezjaMpAAAA)
 
 ## Critique of the Visualization
 The overall summary of the chart is that for someone who has experience with NBA the chart 
@@ -114,6 +115,9 @@ They looked at a draft I had been working on in Tableau
 - What new inspirations arose: I thought the color was pretty good but it seemed that it could be improved upon because it did not give any real meaning. Also, the idea of showing the top 3 and bottom 3 gave it more pop.
 
 # Build Your Solution
+In creating my final chart I really tried to take into account all the feedback that I had received. I tried to add a meaningful title, work on the colors, highlight the best and worst teams and brought the teams to their individual bars. Doing the two different colors for the top and bottom teams was a really cool feature that got me excited about the chart. It highlights the teams that are really standing out in the league and the teams that are far far behind them. The colors were done in a calculation. I had tried to do this before but it was not until our class groups got together that I was showed how to make this happen in Tableau. 
+
+I do believe this chart gets across to the viewer the story that is meant to be told by the data and that is which teams have it figured out, which teams are far behind, and which teams are stuck in no mans land in the middle gray area. I like that the color gray here symbolizes where these teams are as far as where they stand as title contenders.
 
 <div class='tableauPlaceholder' id='viz1644289774380' style='position: relative'>
   <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />

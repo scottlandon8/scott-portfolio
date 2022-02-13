@@ -21,11 +21,11 @@ I am still playing with how to use this data or if it is even usable. I like tha
 <a href="https://www.cdc.gov/nchs/data/nhsr/nhsr112.pdf">CDC National Health Statistics Report</a><br>
 Shows the percent of adults age 16-64 who met the CDC recommended time for exercise. <br>
 <a href="https://www.cdc.gov/chronicdisease/resources/publications/factsheets/physical-activity.htm">CDC: Lack of Physical Exercise</a><br>
-This is an artical from the CDC highlighting the key points that only 1 in 4 adults and 1 in 5 high school aged kids are getting the adequate and recommended amount of exercise. <br>
+This is an artical from the CDC highlighting the key points that only 1 in 4 adults and 1 in 5 high school aged kids are getting the adequate and recommended amount of exercise. This will be used to illustrate the low percentage of Americans who get adequate exercise. <br>
 <a href="https://www.bls.gov/tus/a1-2019.pdf">bls.gov data on how we spend our time</a><br>
 This shows how we spend our time. It as survey that shows how most Americans spend all their time. The important aspects here are leisure activities. I want to use this data as motivating evidence that we do indeed have time to exercise we just have to make it happen. <br>
 <a href="https://www.cdc.gov/nchs/data/hestat/obesity-adult-17-18/overweight-obesity-adults-H.pdf">CDC Overweight, Obesity, and Severe Obesity in US over time</a><br>
-This shows the trend over time of how Americans have increased in weight over time. <br>
+This shows the trend over time of how Americans have increased in weight over time. Not sure if I will use this but if I do if be to show that there is a trend towards unhealthy behaviors and one of the side effects of not exercising. <br>
 <a href="https://www.bls.gov/tus/charts/leisure.htm">BLS: Leisure time on an average day</a><br>
 Similar to one mentioned above. Depicts how we use our time. <br>
 

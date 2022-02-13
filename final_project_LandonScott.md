@@ -1,14 +1,15 @@
 # This is the Page for my final project
 
 ## Outline
-What I want to show through this project is the decline of Youth Sports Participation in America. I'd like to highlight the benefits of youth sports participation and then give some advice on how we can all help save/promote Youth Sports participation. 
+What I want to show is that many of us do not get the proper exercise. The negative impact of not getting enough exercise. The benefits of exercising. Then a call to action of exercising more. 
 
-Add Image from class here.
 
-Potential outline for story: Maybe exercise benefits in general > History of Youth Sports Participation > Costs increasing > Benefits of participation > How we can help
+Potential outline for story: Maybe exercise benefits in general > Where we are at currently in exercise statistics > Downsides of not exercising > Long-term benefits > Call to action
 
 ## Sketches
+From class story map
 
 ## Data
+<a href="https://www.cdc.gov/nchs/data/nhsr/nhsr112.pdf">CDC National Health Statistics Report</a>
 
 ## Medium and Method

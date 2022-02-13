@@ -8,6 +8,13 @@ Potential outline for story: Maybe exercise benefits in general > Where we are a
 ## Sketches
 ![Story Map from class](classStoryExercise.PNG)
 
+![1 in 4 Americans Exercise Enough](1in4.jpg)
+I like this visual because it shows how small of a percentage it actually is of those who get enough daily exercise. 
+![How we use our leisure time](sizeOfTime.jpg)
+This graphic I like because it points out how we use our leisure time. The point of this chart would be to effectively make the point that we all have space in our day to exercise. We just have not prioritized it. I particularly like how it emphasizes how much TV we watch. 
+![Gender Exercise Data over Time (2010-19)](genderOverTime.jpg)
+I am still playing with how to use this data or if it is even usable. I like that it shows the data over time but we have more or less stayed pretty constant. Which is what I would say is the problem. As a country we have been and still are in pretty low percentages. 
+
 ## Data
 <a href="https://www.cdc.gov/nchs/data/nhsr/nhsr112.pdf">CDC National Health Statistics Report</a><br>
 Shows the percent of adults age 16-64 who met the CDC recommended time for exercise. <br>

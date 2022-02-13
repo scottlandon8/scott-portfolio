@@ -6,8 +6,7 @@ What I want to show is that many of us do not get the proper exercise. The negat
 Potential outline for story: Maybe exercise benefits in general > Where we are at currently in exercise statistics > Downsides of not exercising > Long-term benefits > Call to action
 
 ## Sketches
-From class story map
-[Story Map from class)(
+![Story Map from class](classStoryExercise.PNG)
 
 ## Data
 <a href="https://www.cdc.gov/nchs/data/nhsr/nhsr112.pdf">CDC National Health Statistics Report</a><br>

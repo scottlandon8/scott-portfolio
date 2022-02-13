@@ -7,7 +7,7 @@ Potential outline for story: Maybe exercise benefits in general > Where we are a
 
 ## Sketches
 ![Story Map from class](classStoryExercise.PNG)
-<img src="classStoryExercise.PNG)" width=50% height=50%>
+<img src="classStoryExercise.PNG" width=50% height=50%>
 
 ![1 in 4 Americans Exercise Enough](1in4.jpg)
 I like this visual because it shows how small of a percentage it actually is of those who get enough daily exercise. 

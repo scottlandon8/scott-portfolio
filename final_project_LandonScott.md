@@ -1,13 +1,13 @@
 # This is the Page for my final project
 
 ## Outline
-What I want to show is that many of us do not get the proper exercise. The negative impact of not getting enough exercise. The benefits of exercising. Then a call to action of exercising more. 
-
+What I want to show is that many of us do not get the proper exercise. The negative impact of not getting enough exercise. The benefits of exercising. Then a call to action of exercising more. This will probably be a bit tricky to get data on, but if I can I think I can create a compelling story for exercising more. 
 
 Potential outline for story: Maybe exercise benefits in general > Where we are at currently in exercise statistics > Downsides of not exercising > Long-term benefits > Call to action
 
 ## Sketches
 From class story map
+[Story Map from class)(
 
 ## Data
 <a href="https://www.cdc.gov/nchs/data/nhsr/nhsr112.pdf">CDC National Health Statistics Report</a><br>
@@ -22,3 +22,11 @@ This shows the trend over time of how Americans have increased in weight over ti
 Similar to one mentioned above. Depicts how we use our time. <br>
 
 ## Medium and Method
+The medium I am assuming I will use is Shorthand. We have not gone over it in class yet, but it was discussed that it will. 
+It was said most students do end up using shorthand so I will probably do that as well. 
+
+To finish my final project, first I need to find some more data. I think I can do this through the libray, I just need to contact
+someone there to see where else I can be looking. I have accumulated some data sources though that I think are relevant to the topic.
+Next, I will want to make sure my story outline makes sense, get some feedback on it from others to how I can improve it. Next, I 
+will create the data visualizations for the story and have those critiqued to see where they can be improved and if they help the 
+story. Then I wll work in shorthand to get it all up looking nice and pretty. Then I will rehearse for my final presentation. 

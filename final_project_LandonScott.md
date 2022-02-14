@@ -6,18 +6,14 @@ What I want to show is that many of us do not get the proper exercise. The negat
 Potential outline for story: Maybe exercise benefits in general > Where we are at currently in exercise statistics > Downsides of not exercising > Long-term benefits > Call to action
 
 ## Sketches
-<div><img src="classStoryExercise.PNG" width=50% height=50%></div>
 ![Story Sketch from Class](classStoryExercise.PNG)
 
-<img src="1in4.jpg" width=50% height=50%>
 ![1 in 4 People Don't Meet the Exercise Recommended](1in4.jpg)
 I like this visual because it shows how small of a percentage it actually is of those who get enough daily exercise. 
 
-<img src="sizeOfTime.jpg" width=50% height=50%>
 ![Shows How we spend our leisure time](sizeOfTime.jpg)
 This graphic I like because it points out how we use our leisure time. The point of this chart would be to effectively make the point that we all have space in our day to exercise. We just have not prioritized it. I particularly like how it emphasizes how much TV we watch. 
 
-<img src="genderOverTime.jpg" width=50% height=50%>
 ![Exercise over time by gender](genderOverTime.jpg)
 I am still playing with how to use this data or if it is even usable. I like that it shows the data over time but we have more or less stayed pretty constant. Which is what I would say is the problem. As a country we have been and still are in pretty low percentages. 
 

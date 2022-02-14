@@ -1,4 +1,4 @@
-# This is the Page for my final project
+# Final Project Page
 
 ## Outline
 What I want to show is that many of us do not get the proper exercise. The negative impact of not getting enough exercise. The benefits of exercising. Then a call to action of exercising more. This will probably be a bit tricky to get data on, but if I can I think I can create a compelling story for exercising more. 

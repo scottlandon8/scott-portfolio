@@ -41,3 +41,28 @@ story. Then I wll work in shorthand to get it all up looking nice and pretty. Th
 
 Part II of Final Project
 <div class="infogram-embed" data-id="1b7d20f8-93d0-49ed-9e20-096d3107e40b" data-type="interactive" data-title="Pictoral Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1b7d20f8-93d0-49ed-9e20-096d3107e40b" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+<div class='tableauPlaceholder' id='viz1645471395204' style='position: relative'>
+  <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+  <param name='embed_code_version' value='3' /> 
+  <param name='site_root' value='' />
+  <param name='name' value='Tab_TimeSpending&#47;HowWeSpendOurLeisureTime2020' />
+  <param name='tabs' value='no' />
+  <param name='toolbar' value='yes' />
+  <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' />
+  <param name='display_spinner' value='yes' />
+  <param name='display_overlay' value='yes' />
+  <param name='display_count' value='yes' />
+  <param name='language' value='en-US' />
+  <param name='filter' value='publish=yes' />
+  </object>
+</div>                
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1645471395204');
+  var vizElement = divElement.getElementsByTagName('object')[0];
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>

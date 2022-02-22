@@ -143,6 +143,7 @@ using it and to get some feedback on the set up, the story, and the visualizatio
 place. 
 
 Here is the link to my shorthand story: <href="https://preview.shorthand.com/zXPLtRPJYRSiJv6X">
+[Here is the link to my shorthand story:](https://preview.shorthand.com/zXPLtRPJYRSiJv6X "Shorthand Draft Story")
 
 # Interviews and Feedback
 ### User Research Protocol

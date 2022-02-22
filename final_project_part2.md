@@ -1,10 +1,23 @@
-Part II of Final Project
+#Part II of Final Project
+After part 1 I felt like a received a lot of feedback and criticism on how to make the story better. 
+From our class critique I understood that I needed to make my story more direct. Exercise itself is too general
+of a topic. So I settled on the idea of pitching the importance of exercise to college students. Most people know
+the general benefits of exercising so the challenge is motivating students to exercise for a reason outside
+of the reasons they already know. For me developing this story has helped me want to exercise more. 
 
-
+## Wireframing and Storyboards
+This first chart is from the CDC. According to their research only about 1 in 4 Americans get adequate exericise.
+I decided to give infogram a try here and see if I could get one of those people charts showing the proportion. 
 
 <script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
 Pictoral Chart
 Infogram
+
+### How we spend our Leisure Time
+The next 3 charts are all using the same data. They show how we as Americans, and specifically the age groups
+of 20-24 and 25-34 year olds spend their leisure time. The majority of our leisure time goes to TV, computers,
+screens, etc. and then trickles down from there. I wasn not sure which way I preferred showing the data and 
+wanted some feedback on these charts from my interviews. 
 
 <div class='tableauPlaceholder' id='viz1645471395204' style='position: relative'>
   <object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -83,6 +96,19 @@ Infogram
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';           
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
+
+## Change in BDNF
+This is really where I want to make my point to college students on the importance of exercise. 
+When we exercise our brains produce a chemical Brain-derived neurotrophic factor (BDNF). This
+chemical acts like a food for our brain and help the dentrites and synapses grow at a faster rate.
+This is really important for people who are learning a lot or taking in a lot of information or 
+learning a new skill. BDNF has been shown to help take information, skills, and knowledge to long-term
+memory at a faster pace which in turn accelerates learning. 
+
+So when we exercise we are actually really helping ourselves learn faster. The great thing about the
+data from the study is that we actually don't have to be some crazy exercise person to get the best
+BDNF results. Moderate exercise at either 20 or 40 minutes had the best results in terms of producing 
+more BDNF. 
 
 <div class='tableauPlaceholder' id='viz1645479576381' style='position: relative'>
   <object class='tableauViz'  style='display:none;'>

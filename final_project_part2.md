@@ -1,5 +1,5 @@
 #Part II of Final Project
-
+<br>
 After part 1 I felt like a received a lot of feedback and criticism on how to make the story better. 
 From our class critique I understood that I needed to make my story more direct. Exercise itself is too general
 of a topic. So I settled on the idea of pitching the importance of exercise to college students. Most people know
@@ -206,42 +206,54 @@ BDNF Chart
 7. Anything is better than nothing when it comes to exercising.
 8. Good... but boring. 
 
-53, Male
 
-First Reaction I like it. A good visual. Big difference.
+The questions I am going to as for each chart are below:
+1. What is your initial reaction to the chart?
+2. What do you like?
+3. What don't you like?
+4. Is there anything unclear or confusing about the chart?
+5. Is there anything you think is not needed?
+6. Would anything else make it more clear or understandable?
+7. What is the point that you take away from the chart?
+8. Do you like the title?
 
-What do you like? Good visual. Not a lot of people are exercising. I am a grey.
+In regards to the story I am going to ask:
+1. Do you like the title?
+2. Does the title want to make you learn more?
+3. In your words, what is the point of this website?
+4. Do you like the website from an aesthetics standpoint?
 
-What don't you like? How many people are actually on there? Title is a bit long? Americans meeting CDC criteria? Only 25% of Americans are Exercising? Over 75% of Americans Are Not Exercising. Make legend bigger. Center the title.
+53, Male and 48, Female
+CDC Chart
+1. I like it. A good visual. Big differnce in those who do and don't exercise.
+2. Its just really clear. Hard to misunderstand. Not a lot of people are exercising. 
+3. How many people are there on this chart... I don't know what the ratio is and it is a bit distracting. Title is a bit long. It needs some revision. 
+Americans meeting CDC criteria? Only 25% of Americans are Exercising? Over 75% of Americans Are Not Exercising. Make legend bigger. Center the title.
+4. Nothing really confusing about it. 
+5. No. 
+6. No. Maybe if the legend was bigger.
+7. That people don't exercise. Surprises me. We have a problem.
+8. Already addressed in 3
 
-Does anything confuse you? No.
+How we spend our time chart:
+1. First Reaction Little more difficult to read. Don't like the colors. I like pie Charts in these situations. Round.
+2. What do you like? Akward pause.... Measure weight values. Different ages is cool. Surprising.
+3. Communicating/Socialing over talking. Rec over Outdoors. Can the labels be bigger. Better labeling. Don't like the color.
+4. Not really confusing. 
+5. Bold title. "How we use our leisure time" in minutes as a subtitle.
+6. Better labeling.
+7. We waste a lot of time.
+8. Could be better. No suggestions though.
 
-Is there anything unnessicary? No.
+When asked about the comparison with the bar chart the consensus was the bar chart was probably clearer to understand. 
 
-Would anything else be helpful? Bigger Legend.
+BDNF Chart
+1. Reaction Crazy the increase. Surprised the moderate was the highest.
+2. Easy to read.
+3. Don't know what CON means. Think of a better title? "Give your brain the food it needs. BDNF.", "Moderate exercise can help boosts BDNF"
+4. The labels.
+5. Don't think so.
+6. Add the number. Why does it say F1 on hover, and give it a % for visual.
+7. Even moderate exercise helps a lot... BDNF.
+8. Addressed earlier.
 
-What is the point you take from the graph? That people don't exercise. Surprises me. We have a problem.
-
-First Reaction Little more difficult to read. Don't like the colors. I like pie Charts in these situations. Round.
-
-What do you like? Nothing.... Measure weight values. Different ages is cool. Surprising.. Maybe
-
-What don't you like? Communicating/Socialing over talking. Rec over Outdoors. Can the labels be bigger.
-
-Does anything confuse you? Not really.
-
-Is there anything unnessicary? Bold title. "How we use our leisure time" in minutes as a subtitle.
-
-Would anything else be helpful?
-
-What is the point you take from the graph? We waste a lot of time. That we have time.
-
-Like the bar graph better. 48, Woman
-
-First Reaction Crazy the increase. Surprised the moderate was the highest.
-What do you like? Easy to read.
-What don't you like? Don't know what CON means. Think of a better title? "Give your brain the food it needs. BDNF.", "Moderate exercise can help boosts BDNF"
-Does anything confuse you? The labels.
-Is there anything unnessicary? Don't think so.
-Would anything else be helpful? Add the number. Why does it say F1 on hover, and give it a % for visual.
-What is the point you take from the graph? Even moderate exercise helps a lot... BDNF.

@@ -293,5 +293,30 @@ I will probably need to clean them both up a bit and get more feedback. Mostly, 
 easier to read.<br>
 All my titles are not great. I didn't realize how boring they were until I was going through the story with people. However, most liked my story title. They thought
 it was engaging. Most everyone gave feedback on the colors I used in the charts. This was not intentional. I made the charts before I made the story in shorthand, but I will 
-need to give some thought to how I want the colors to be presented. 
+need to give some thought to how I want the colors to be presented.
 
+Overall, I really need to give the charts some work and make sure that they are really easy to read at a glance. This includes titles, colors, labels, and such. 
+### What to fix
+With the CDC Chart
+1. Fix the color
+2. Make the legend bigger
+3. Better title
+
+With the treemap/bar chart for leisure time:
+1. Change the color
+2. Treemap, fix the categories and makes sure they are all mostly showing
+3. Treemap, add minutes in the label on the categories
+4. Get feedback on both again after revisions 
+5. Pick one and go with it
+6. Work on a better title 
+
+With the BDNF chart:
+1. Change the color
+2. Change the labels
+3. Make the title engaging. Right now it seems a bit boring and even difficult to understand 
+4. Make the part of the story about BDNF easier to understand
+
+Overall:
+1. Rehearse, get the story down to a 60 second overview that is engaging.
+2. Make sure every think aligns from a color standpoint
+3. Create moodboard and persona and see where it can fit logically into the story.

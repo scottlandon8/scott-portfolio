@@ -1,4 +1,5 @@
 #Part II of Final Project
+
 After part 1 I felt like a received a lot of feedback and criticism on how to make the story better. 
 From our class critique I understood that I needed to make my story more direct. Exercise itself is too general
 of a topic. So I settled on the idea of pitching the importance of exercise to college students. Most people know
@@ -136,7 +137,15 @@ more BDNF.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);     
 </script>
 
+### Shorthand Walk Through
+I decided to give a shot at putting my story together on shorthand to some experience with it.
+It definitely is not in its final stage, but I thought it would be nice to get some experience
+using it and to get some feedback on the set up, the story, and the visualizations all in one
+place. 
 
+Here is the link to my shorthand story: https://preview.shorthand.com/zXPLtRPJYRSiJv6X
+
+# Interviews and Feedback
 24 year old, female
 
 First reaction to the visualization

@@ -142,7 +142,7 @@ It definitely is not in its final stage, but I thought it would be nice to get s
 using it and to get some feedback on the set up, the story, and the visualizations all in one
 place. 
 
-Here is the link to my shorthand story: https://preview.shorthand.com/zXPLtRPJYRSiJv6X
+Here is the link to my shorthand story: <href="https://preview.shorthand.com/zXPLtRPJYRSiJv6X">
 
 # Interviews and Feedback
 ### User Research Protocol
@@ -290,11 +290,13 @@ I would say the big findings is that for the most part people got what I wanted 
 There are definitely things to change with each chart. I got mixed feedback on the treemap vs. bar chart for the leisure time section. I am not sure what to do there.
 I will probably need to clean them both up a bit and get more feedback. Mostly, I feel like people liked the treemap but it just needs to be done better and made
 easier to read.<br>
+
 All my titles are not great. I didn't realize how boring they were until I was going through the story with people. However, most liked my story title. They thought
 it was engaging. Most everyone gave feedback on the colors I used in the charts. This was not intentional. I made the charts before I made the story in shorthand, but I will 
 need to give some thought to how I want the colors to be presented.
 
 Overall, I really need to give the charts some work and make sure that they are really easy to read at a glance. This includes titles, colors, labels, and such. 
+
 ### What to fix
 With the CDC Chart
 1. Fix the color

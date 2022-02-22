@@ -268,5 +268,27 @@ BDNF Chart
 8. Addressed earlier.
 
 22 year old, male, college student
+1. That is really low. We are bad at it.
+2. It is really simple and straighforward. Nice to look at. 
+3. I don't know if the colors are my favorite, but it is not that big of a deal. 
+4. Not really. 
+5. Not really.
+6. No.. maybe make the key more prominent.
+7. That we do not exercise as a society haha. 
+8. Title is fine. 
 
+Chart of leisure time:
+1. Makes sense. Still hurts to look at but makes sense. Not the easiest to read. Would be nice if it was clearer. 
+2. It is a cool chart. Unique, but needs to be clearer. 
+3. The clarity haha. The color isn't my favorite either. Why can't I see those boxes?
+4. Just that I can't see the boxes. 
+5. Hmmm not really.
+6. Just make it easier to read how the time say minutes in the boxes and I want to be able to read the boxes. 
+7. We spend a lot of time things that aren't that important. 
+8. Hmmm not great, but I don't really know what to change it to. 
+
+I would say the bar chart is probably clearer, but there is something cool about the other one and how the space represents the time. I like them both. 
+
+BDNF chart:
+1. What are those labels. 
 

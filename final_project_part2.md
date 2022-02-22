@@ -216,23 +216,6 @@ BDNF Chart
 7. Anything is better than nothing when it comes to exercising.
 8. Good... but boring. 
 
-
-The questions I am going to as for each chart are below:
-1. What is your initial reaction to the chart?
-2. What do you like?
-3. What don't you like?
-4. Is there anything unclear or confusing about the chart?
-5. Is there anything you think is not needed?
-6. Would anything else make it more clear or understandable?
-7. What is the point that you take away from the chart?
-8. Do you like the title?
-
-In regards to the story I am going to ask:
-1. Do you like the title?
-2. Does the title want to make you learn more?
-3. In your words, what is the point of this website?
-4. Do you like the website from an aesthetics standpoint?
-
 53, Male and 48, Female<br>
 CDC Chart
 1. I like it. A good visual. Big differnce in those who do and don't exercise.
@@ -247,7 +230,7 @@ Americans meeting CDC criteria? Only 25% of Americans are Exercising? Over 75% o
 
 How we spend our time chart:
 1. First Reaction Little more difficult to read. Don't like the colors. I like pie Charts in these situations. Round.
-2. What do you like? Akward pause.... Measure weight values. Different ages is cool. Surprising.
+2. What do you like? Awkward pause.... Measure weight values. Different ages is cool. Surprising.
 3. Communicating/Socialing over talking. Rec over Outdoors. Can the labels be bigger. Better labeling. Don't like the color.
 4. Not really confusing. 
 5. Bold title. "How we use our leisure time" in minutes as a subtitle.
@@ -290,5 +273,25 @@ Chart of leisure time:
 I would say the bar chart is probably clearer, but there is something cool about the other one and how the space represents the time. I like them both. 
 
 BDNF chart:
-1. What are those labels. 
+1. What are those labels. I think it makes the point pretty clearly about BDNF. 
+2. Easy to read. Interesting the moderate exercise is the highest. Helps the point I think. 
+3. The labels what is "Vig40". Why are you using this pinkish red?
+4. Not really, pretty straightfoward chart. 
+5. Nope. 
+6. I would maybe add the percents if you could just for reference. 
+7. That exercising really helps increase BDNF. 
+8. Title is plain, but it works. 
+
+Overall I would say the story is that as a college student we can help ourselves from a school and learning standpoint by exercising. 
+I thought it flowed well. It was not super long, which is fine, because I think it got your point across. It is nice to look at mostly, just
+change some of the colors so it aligns better with your other stuff. Cool tool though to create a website like this. 
+
+### Findings
+I would say the big findings is that for the most part people got what I wanted them to get from each chart and from the story as a whole. 
+There are definitely things to change with each chart. I got mixed feedback on the treemap vs. bar chart for the leisure time section. I am not sure what to do there.
+I will probably need to clean them both up a bit and get more feedback. Mostly, I feel like people liked the treemap but it just needs to be done better and made
+easier to read.<br>
+All my titles are not great. I didn't realize how boring they were until I was going through the story with people. However, most liked my story title. They thought
+it was engaging. Most everyone gave feedback on the colors I used in the charts. This was not intentional. I made the charts before I made the story in shorthand, but I will 
+need to give some thought to how I want the colors to be presented. 
 

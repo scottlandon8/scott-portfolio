@@ -1,4 +1,4 @@
-#Part II of Final Project
+# Part II of Final Project
 <br>
 After part 1 I felt like a received a lot of feedback and criticism on how to make the story better. 
 From our class critique I understood that I needed to make my story more direct. Exercise itself is too general

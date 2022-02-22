@@ -147,3 +147,94 @@ Part II of Final Project
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';   
   vizElement.parentNode.insertBefore(scriptElement, vizElement);     
 </script>
+
+24 year old, female
+1. First reaction to the visualization
+- That it is crazy. Makes me wonder if it is true because it is so low.
+3. What do you like?
+- Easy to understand. Immediately know what it is trying to tell me. 
+5. What don't you like?
+- Don't know. 
+7. Does anything confuse you?
+- No, you have to use the legend to know exactly what it is saying. The colors don't make it obvious. 
+9. Is there anything unnecissary?
+- No. 
+11. Would anything else be helpful?
+- Not really. 
+13. What do you take from the visual?
+- That americans don't exercise
+15. Title?
+- Long. Gets to the point. Don't know how else you would do it. Feels a bit long. 
+
+1. No way! But then ya.. 
+2. It is easy to understand. Wish I could see the other three blocks. 
+3. Nothing to pressing. I like that it shows the minutes. 
+4. Nothing confusing. 
+5. Don't need the measure values highlight color. 
+6. No
+7. That we watch way too much TV
+8. Good. 
+
+1. The bar chart maybe shows it better but I like that treemap has it broken down into more categories. 
+
+1. What are the labels? Had to look at it for a second. Interesting the difference it does make. Shows a big gap. 
+2. can the obvious difference. Anything is better than nothing. 
+3. Labels. 
+4. Labels. Why is the moderate the highest?
+5. No. 
+6. New Labels haha. 
+7. Any exercise is better than nothing
+8. Good. Boring.
+
+53, Male
+1. First Reaction
+I like it. A good visual. Big difference. 
+2. What do you like?
+Good visual. Not a lot of people are exercising. I am a grey. 
+3. What don't you like?
+How many people are actually on there? Title is a bit long? 
+Americans meeting CDC criteria? Only 25% of Americans are Exercising?
+Over 75% of Americans Are Not Exercising. 
+Make legend bigger. 
+Center the title.
+4. Does anything confuse you?
+No.
+5. Is there anything unnessicary?
+No. 
+6. Would anything else be helpful?
+Bigger Legend. 
+7. What is the point you take from the graph?
+That people don't exercise. Surprises me. We have a problem. 
+
+1. First Reaction
+Little more difficult to read. Don't like the colors. I like pie Charts in these situations. Round. 
+2. What do you like?
+Nothing.... Measure weight values. Different ages is cool. Surprising.. Maybe 
+3. What don't you like?
+Communicating/Socialing over talking. Rec over Outdoors. 
+Can the labels be bigger. 
+4. Does anything confuse you?
+Not really. 
+5. Is there anything unnessicary?
+Bold title. "How we use our leisure time" in minutes as a subtitle. 
+6. Would anything else be helpful?
+
+7. What is the point you take from the graph?
+We waste a lot of time. That we have time. 
+
+Like the bar graph better. 
+48, Woman
+1. First Reaction
+Crazy the increase. Surprised the moderate was the highest. 
+2. What do you like?
+Easy to read. 
+3. What don't you like?
+Don't know what CON means. Think of a better title? "Give your brain the food it needs. BDNF.", "Moderate exercise can help boosts BDNF"
+4. Does anything confuse you?
+The labels.
+5. Is there anything unnessicary?
+Don't think so. 
+6. Would anything else be helpful?
+Add the number. Why does it say F1 on hover, and give it a % for visual. 
+7. What is the point you take from the graph?
+Even moderate exercise helps a lot... BDNF. 

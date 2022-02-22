@@ -98,7 +98,7 @@ wanted some feedback on these charts from my interviews.
   vizElement.parentNode.insertBefore(scriptElement, vizElement);      
 </script>
 
-## Change in BDNF
+### Change in BDNF
 This is really where I want to make my point to college students on the importance of exercise. 
 When we exercise our brains produce a chemical Brain-derived neurotrophic factor (BDNF). This
 chemical acts like a food for our brain and help the dentrites and synapses grow at a faster rate.
@@ -146,57 +146,65 @@ place.
 Here is the link to my shorthand story: https://preview.shorthand.com/zXPLtRPJYRSiJv6X
 
 # Interviews and Feedback
+### User Research Protocol
+The goal of my research and interviews is to get real feedback on how my story flows. If it is
+is choppy in anyway, motivating, and clear. I would like to have an understanding of how the visuals
+I have created a taken. If they are being received the way that I have intended them to or if they
+are missing the mark. 
+
+The questions I am going to as for each chart are below:
+1. What is your initial reaction to the chart?
+2. What do you like?
+3. What don't you like?
+4. Is there anything unclear or confusing about the chart?
+5. Is there anything you think is not needed?
+6. Would anything else make it more clear or understandable?
+7. What is the point that you take away from the chart?
+8. Do you like the title?
+
+In regards to the story I am going to ask:
+1. Do you like the title?
+2. Does the title want to make you learn more?
+3. In your words, what is the point of this website?
+4. Do you like the website from an aesthetics standpoint?
+
+### Interviews
 24 year old, female
+Chart on CDC Exercise Rates
+1. That it is crazy. Makes me wonder if it is true because it is so low.
+2. Easy to understand. Immediately know what it is trying to tell me.
+3. Don't know. It is a pretty simple chart. Nice to look at. 
+4. No, you have to use the legend to know exactly what it is saying. The colors don't make it obvious.
+5. No.
+6. Not really.
+7. That Americans do not exercise. 
+8. Long. Gets to the point. Don't know how else you would say it but it feels long.
 
-First reaction to the visualization
-That it is crazy. Makes me wonder if it is true because it is so low.
-What do you like?
-Easy to understand. Immediately know what it is trying to tell me.
-What don't you like?
-Don't know.
-Does anything confuse you?
-No, you have to use the legend to know exactly what it is saying. The colors don't make it obvious.
-Is there anything unnecissary?
-No.
-Would anything else be helpful?
-Not really.
-What do you take from the visual?
-That americans don't exercise
-Title?
-Long. Gets to the point. Don't know how else you would do it. Feels a bit long.
-No way! But then ya..
+Charts on how spend our leisure time. 
+I showed the treemap first. 
+1. It is easy to understand. Wish I could see the data on the other three blocks. 
+2. I like the minutes on there with the category.
+3. Nothing to pressing. Color is not my favorit. 
+4. No. 
+5. Don't need the measure values highlight color.
+6. No, it is pretty clear.
+7. That we watch way too much TV.
+8. Title is okay. Kind of boring. 
 
-It is easy to understand. Wish I could see the other three blocks.
+I asked for opinion on the treemap compared to the bar chart:
+I like the treemap because it is different, it is more fun to look at. However,
+I would say the bar chart is easier to understand at a glance. I like that the
+tree map has it broken down into more categories. Overall, treemap.
 
-Nothing to pressing. I like that it shows the minutes.
-
-Nothing confusing.
-
-Don't need the measure values highlight color.
-
-No
-
-That we watch way too much TV
-
-Good.
-
-The bar chart maybe shows it better but I like that treemap has it broken down into more categories.
-
-What are the labels? Had to look at it for a second. Interesting the difference it does make. Shows a big gap.
-
-can the obvious difference. Anything is better than nothing.
-
-Labels.
-
-Labels. Why is the moderate the highest?
-
-No.
-
-New Labels haha.
-
-Any exercise is better than nothing
-
-Good. Boring.
+BDNF Chart
+1. First thought was "What are the labels". Had to look at it for a bit. But that data is interesting. Shows a real difference. 
+2. I like that it tells me that anything is better than nothing. 
+3. Don't like the labels. They don't mean anything. 
+4. Why is the moderate the highest?
+5. No. 
+6. New labels haha. 
+7. Anything is better than nothing when it comes to exercising.
+8. Good... but boring. 
 
 53, Male
 

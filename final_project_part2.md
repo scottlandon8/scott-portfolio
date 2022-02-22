@@ -147,6 +147,15 @@ Here is the link to my shorthand story: https://preview.shorthand.com/zXPLtRPJYR
 
 # Interviews and Feedback
 ### User Research Protocol
+The target audience of my story is college students. Specifically, students here at CMU.<br>
+
+My approach to finding individuals was pretty simple. The first is my wife, she is a recent
+college graduate, I wanted to see if the story was motivating for her and her take on it. The
+second interview was both of my parents. They just have a good eye for seeing little details that
+a lot of people gloss over so I wanted to see what they could pick apart from my story. The third 
+is my brother, he is a 22 year old college student and I wanted to see if it was motivating for 
+him and his thoughts on it. <br>
+
 The goal of my research and interviews is to get real feedback on how my story flows. If it is
 is choppy in anyway, motivating, and clear. I would like to have an understanding of how the visuals
 I have created a taken. If they are being received the way that I have intended them to or if they
@@ -170,6 +179,7 @@ In regards to the story I am going to ask:
 
 ### Interviews
 24 year old, female
+<br>
 Chart on CDC Exercise Rates
 1. That it is crazy. Makes me wonder if it is true because it is so low.
 2. Easy to understand. Immediately know what it is trying to tell me.
@@ -223,7 +233,7 @@ In regards to the story I am going to ask:
 3. In your words, what is the point of this website?
 4. Do you like the website from an aesthetics standpoint?
 
-53, Male and 48, Female
+53, Male and 48, Female<br>
 CDC Chart
 1. I like it. A good visual. Big differnce in those who do and don't exercise.
 2. Its just really clear. Hard to misunderstand. Not a lot of people are exercising. 
@@ -256,4 +266,7 @@ BDNF Chart
 6. Add the number. Why does it say F1 on hover, and give it a % for visual.
 7. Even moderate exercise helps a lot... BDNF.
 8. Addressed earlier.
+
+22 year old, male, college student
+
 

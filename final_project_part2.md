@@ -10,9 +10,8 @@ of the reasons they already know. For me developing this story has helped me wan
 This first chart is from the CDC. According to their research only about 1 in 4 Americans get adequate exericise.
 I decided to give infogram a try here and see if I could get one of those people charts showing the proportion. 
 
-<script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script>
-Pictoral Chart
-Infogram
+### Most of us do not exercise
+<div class="infogram-embed" data-id="1b7d20f8-93d0-49ed-9e20-096d3107e40b" data-type="interactive" data-title="Pictoral Chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/1b7d20f8-93d0-49ed-9e20-096d3107e40b" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictoral Chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 ### How we spend our Leisure Time
 The next 3 charts are all using the same data. They show how we as Americans, and specifically the age groups

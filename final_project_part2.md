@@ -141,9 +141,7 @@ I decided to give a shot at putting my story together on shorthand to some exper
 It definitely is not in its final stage, but I thought it would be nice to get some experience
 using it and to get some feedback on the set up, the story, and the visualizations all in one
 place. 
-
-Here is the link to my shorthand story: <href="https://preview.shorthand.com/zXPLtRPJYRSiJv6X">
-[Here is the link to my shorthand story:](https://preview.shorthand.com/zXPLtRPJYRSiJv6X "Shorthand Draft Story")
+### [Click here to see my shorthand story](https://preview.shorthand.com/zXPLtRPJYRSiJv6X "Shorthand Draft Story")
 
 # Interviews and Feedback
 ### User Research Protocol

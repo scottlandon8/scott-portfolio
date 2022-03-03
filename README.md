@@ -5,7 +5,7 @@ My name is Landon Scott (He/Him). I am a MISM 16 student and this is my final se
 
 My hobbies are basketball, golfing, spending time with my family, and church. 
 
-#### What I hope to learn
+### What I hope to learn
 How to effectively tell the story of the data using visualizations. Once I graduate I will be moving back to Utah with my family and begin working in Salt Lake City. 
 
 ## Portfolio

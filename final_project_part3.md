@@ -1,10 +1,20 @@
-
-# How the Project Was Developed
+# Part III
+## How the Project Was Developed
 This project was developed in 3 parts. 
 
 You can check out part 1 here: [Part 1](final_project_LandonScott.md)
+This is the beginning phase where we kind of mapped out our original ideas of what we thought we 
+could do for a project. My initial story was called "Exercise: the best medicine". After getting some
+great feedback on how exercise itself is really broad and the call to action to exercise is really 
+broad. I had to narrow my focus a bit. This is where Group X at CMU was actually brought up by another
+classmate as a potential call to action. My initiial sketches weren't great but I actually did end up
+following those ideas to the end. 
+
+The goal was to have an idea, sketch and wireframe, and find data that supported our story. You can
+find all that in the link above. 
 
 You can check out part 2 here: [Part 2](final_project_part2.md)
+
 
 This is part 3. I was talk about how the project changed during this part and what changes were made
 as a result of the things done in part 2 that were then implement in part 3. 

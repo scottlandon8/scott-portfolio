@@ -23,6 +23,13 @@ We help interviews for feedback which you can read in part 2 and I also created 
 story in shorthand. I got some great feedback from the TA/Professor that I needed to fix make the title
 more understandable and also make the BDNF portion easier to understand as a reader. 
 
+### Intended Audience
+The intended audience at the very beginning was so broad... because probably everyone can benefit from some more exercise in their life.
+However, I knew and was told that I need to narrow that down. I initially thought to narrow it down specifically to college students, but
+a classmate suggested maybe it be directly targeted at CMU students and Group X. I thought that was a great idea, so my research then tailored
+more towards students. With that in mind I decided to try to tackle the excuse of "I don't have time" and find some real benefit to students
+other than the regular known benefits and I learned about BDNF. This enabled me to kind of pitch the idea of exercise as a study habit and that
+CMU provides resources to do it at Group X. 
 
 ### Adjustments from part II
 Part of our requirements was to interview 3 individuals about our project and get their feedback. As

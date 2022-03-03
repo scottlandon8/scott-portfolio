@@ -37,16 +37,16 @@ Here are some other homeworks we did.
 
 # Final Project
 ## Final Project Part I
-[Check out my final project Part I](final_project_LandonScott.md)
+[Check out my final project Part I](final_project_LandonScott.md)<br>
 This is the beginning of our final project. Starting to sketch out an idea on paper in class along with potential data visualizations we could see being in this story. 
 Getting feedback on the story from our class peers and then making adjustments based on their feedback. We also were to identify data sources we though would be particularly helpful in creating our story. 
 
 ## Final Project Part II
-[Check out my final project Part II](final_project_part2.md)
+[Check out my final project Part II](final_project_part2.md)<br>
 The part 2 of our project was focussed on creating a real draft of our story. We needed to create visualization in our tool of choice (Tableau, Flourish, Datagram, or others) and then interview 2-3 people to get feedback on our visualizations. I found this very helpful, not only from our interviews but also from instructor feedback. We are supposed to be able to pinpoint places in our story or visualizations that need work and identify anything that is confusing. 
 
 ## Final Project Part III
-[Check out my final project Part III](final_project_part3.md)
+[Check out my final project Part III](final_project_part3.md)<br>
 Part 3 is where all the work is supposed to come together. We have gone through multiple rounds of interview with classmates and other people, we have sketched and re-sketched, found new data, thought of new ways to tell our story, created a story in a Shorthand (a very cool tool), and we have reworked our story in a way we believe is the best way to present it. Then we actually presented it in class and got direct feedback. There is a direct link to my final presentation in the part 3 link or you can use the link below.
 
 ## Final Story: ["Exercise: The Underutilized Study Habit"](https://carnegiemellon.shorthandstories.com/exercise-the-underutilized-study-habit/index.html)

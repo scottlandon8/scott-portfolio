@@ -54,7 +54,7 @@ may seem very clear to us, but we are not the user or viewer. Interviewing someo
 visualization helped me see what was confusing or the assumptions I had made in creating the story. I think this
 lesson is not just data visualizations specific but also important to understant in a lot of different aspects. 
 
-### The link to my final story is here: [Shorthand: "Exercise: The Underutilized Study Habit](https://carnegiemellon.shorthandstories.com/exercise-the-underutilized-study-habit/index.html)<br>
+### The link to my final story is here created in Shorthand: ["Exercise: The Underutilized Study Habit"](https://carnegiemellon.shorthandstories.com/exercise-the-underutilized-study-habit/index.html)<br>
 
 ### Sources
 “Lack of Physical Activity.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 25 Sept. 2019, https://www.cdc.gov/chronicdisease/resources/publications/factsheets/physical-activity.htm.

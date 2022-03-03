@@ -27,13 +27,15 @@ This second chart is made in Tableau. It shows the data of the percent of Americ
 </script>
 
 ## Other Homeworks
+Here are some other homeworks we did. 
+
 ### Visualizing Government Debt
 [Check out three charts about the countries Debt-to-GDP ratio](/dataviz2.md)
 
 ### Homework 3/4
 [Check out Homework 3 and 4](homework3and4.md)
 
-#Final Project
+# Final Project
 ## Final Project Part I
 [Check out my final project Part I](final_project_LandonScott.md)
 This is the beginning of our final project. Starting to sketch out an idea on paper in class along with potential data visualizations we could see being in this story. 

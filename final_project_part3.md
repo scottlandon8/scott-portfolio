@@ -2,7 +2,7 @@
 ## How the Project Was Developed
 This project was developed in 3 parts. 
 
-###You can check out part 1 here: [Part 1](final_project_LandonScott.md)<br>
+### You can check out part 1 here: [Part 1](final_project_LandonScott.md)<br>
 This is the beginning phase where we kind of mapped out our original ideas of what we thought we 
 could do for a project. My initial story was called "Exercise: the best medicine". After getting some
 great feedback on how exercise itself is really broad and the call to action to exercise is really 
@@ -13,7 +13,7 @@ following those ideas to the end.
 The goal was to have an idea, sketch and wireframe, and find data that supported our story. You can
 find all that in the link above. 
 
-###You can check out part 2 here: [Part 2](final_project_part2.md)<br>
+### You can check out part 2 here: [Part 2](final_project_part2.md)<br>
 In this section we were supposed to make some more leaps in our stories journey. We developed further
 our sketches and wireframe and put them to actual data visualizations. I expanded my story a bit further
 by talking about what Brain-Derived Neurotrophic Factor (BDNF) and its impact on learning abilities. 
@@ -56,7 +56,7 @@ lesson is not just data visualizations specific but also important to understant
 
 ### The link to my final story is here: [Shorthand: "Exercise: The Underutilized Study Habit](https://carnegiemellon.shorthandstories.com/exercise-the-underutilized-study-habit/index.html)<br>
 
-###Sources
+### Sources
 “Lack of Physical Activity.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 25 Sept. 2019, https://www.cdc.gov/chronicdisease/resources/publications/factsheets/physical-activity.htm.
 
 “Health Benefits of Physical Activity for Adults.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, 1 Nov. 2021, https://www.cdc.gov/physicalactivity/basics/adults/health-benefits-of-physical-activity-for-adults.html.Schmolesky, 

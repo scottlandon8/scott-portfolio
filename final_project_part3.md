@@ -2,9 +2,9 @@
 # How the Project Was Developed
 This project was developed in 3 parts. 
 
-You can check out part 1 here:
+You can check out part 1 here: [Part 1](final_project_LandonScott.md)
 
-You can check out part 2 here:
+You can check out part 2 here: [Part 2](final_project_part2.md)
 
 This is part 3. I was talk about how the project changed during this part and what changes were made
 as a result of the things done in part 2 that were then implement in part 3. 
